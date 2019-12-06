@@ -2,7 +2,7 @@ Following is the description for each directory in this repository:
 
 * Coursera_ML_Andrew_Ng
 
-Contains solutions to programming assignment and few of the Quizes across all the weeks. Each week contains ONLY those code files which are supposed to be modified to successfully submit the entire programming assignment.
+Contains solutions to programming assignment and few of the Quizes across all the weeks. Each week contains ONLY those code files which are supposed to be modified to successfully submit the entire programming assignment. Course link: https://www.coursera.org/learn/machine-learning
 
 * NPTEL_Data structures & Algorithms
 
